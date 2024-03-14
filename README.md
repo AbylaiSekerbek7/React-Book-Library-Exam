@@ -1,6 +1,6 @@
 # Book Library System 📖 with using React js
 
-- Introduction 🐱‍🏍
+# Introduction 🐱‍🏍
 
 This is a simple library system web site , with interesting functions: 
 
@@ -17,7 +17,7 @@ Also you can navigate to admin panel, "http://localhost:5173/admin", where you c
 3) Update selected Book
 4) Delete selected Book
 
-- Usage ⌨
+# Usage ⌨
 
 Before starting, install the libraries
 
