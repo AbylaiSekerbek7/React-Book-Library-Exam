@@ -1,0 +1,164 @@
+.filter {
+    margin-top: 100px;
+}
+
+.books {
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+    margin-bottom: 35px;
+}
+
+.books h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.books .books_box {
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 25px 0;
+}
+
+.books .books_box .books_card {
+    width: 250px;
+    height: 340px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #919191;
+    margin: auto 20px;
+}
+
+.books .books_box .books_card .books_image img {
+    width: 150px;
+}
+
+.books .books_box .books_card a {
+    padding: 8px 20px;
+    border: 2px solid #089da1;
+    text-decoration: none;
+    color: #000;
+}
+
+.top10_books {
+    width: 100%;
+    padding: 70px 0;
+}
+
+.top10_books h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+
+.top10_books .top10_books_box {
+    width: 95%;
+    height: 60vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(15, 1fr);
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+.top10_books .top10_book_card {
+    width: 250px;
+    height: 420px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #919191;
+    margin: auto 20px;
+}
+
+.top10_books .top10_book_card:hover {
+    box-shadow: 0 0 5px #089da1;
+}
+
+.top10_books .top10_book_card .top10_book_image img {
+    width: 150px;
+}
+
+.top10_books .top10_book_card .top10_book_tag h2 {
+    margin: 12px;
+}
+
+
+.top10_books .top10_book_card .top10_book_tag .year {
+    margin-top: 8px;
+}
+
+.top10_books .top10_book_card .top10_book_tag a {
+    padding: 8px 20px;
+    border: 2px solid #089da1;
+    color: #000;
+    text-decoration: none;
+}
+
+.top10_books::-webkit-scrollbar {
+    width: 10px;
+    height: 5px;
+}
+
+.top10_books::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.top10_books::-webkit-scrollbar-thumb {
+    background: #089da1;
+    border-radius: 10px;
+}
+
+.custom-select {
+    margin-top: 100px;
+    margin-left: 55px;
+    position: relative;
+}
+
+.custom-select select {
+    appearance: none;
+    -webkit-appearance: none;
+    font-size: 1.15rem;
+    padding: 0.675em 2em 0.675em 1em;
+    background-color: #fff;
+    border: 1px solid #caced1;
+    border-radius: 0.25rem;
+    color: #000;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.custom-select::before,
+.custom-select::after {
+    --size: 0.3rem;
+    content: "";
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.custom-select::before {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-bottom: var(--size) solid black;
+}
+
+.custom-select::after {
+    border-left: var(--size) solid transparent;
+    border-right: var(--size) solid transparent;
+    border-top: var(--size) solid black;
+}
+
+.sort_btn {
+    cursor: pointer;
+    padding: 8px 20px;
+    border: 2px solid #089da1;
+    text-decoration: none;
+    color: #000;
+}

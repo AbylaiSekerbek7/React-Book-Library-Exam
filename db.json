@@ -1,0 +1,284 @@
+{
+    "books": [
+        {
+            "id": "0",
+            "title": "Practical React Native",
+            "author": "Frank Zammetti",
+            "genre": "Some",
+            "description": "Teaches React Native in a playful and practical way, with real-world solutions to real-world situations. Includes three full builds - two projects and one full game - that you can actually install on your mobile devices (source code all available on GitHub). Written by Frank Zammetti, author of 10 Apress titles, well-used to breaking down complex concepts into easy-to-follow instructions.",
+            "year": "2019",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/e28/e286d9ca0ebd688ff25493fbb662d94c.jpg",
+            "source": "../public/books_source/Practical React Native_ Build Two Full Projects and One Full Game Using React Native ( PDFDrive ).pdf"
+        },
+        {
+            "id": "1",
+            "title": "Win the Crowd",
+            "author": "Steve Cohen",
+            "genre": "Science",
+            "description": "Win the Crowd is an inspiring book written for those who aspire to stand out in a crowd and achieve success in public speaking. Drawing from his experience and expertise, the author offers unique strategies and advice on capturing the audience's attention, delivering memorable presentations, and effectively communicating with any audience.",
+            "year": "2005",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/bb6/bb6147118729e29bd79e8c58d2accdda.jpg",
+            "source": "../public/books_source/Win the Crowd_ Unlock the Secrets of Influence, Charisma, and Showmanship ( PDFDrive ).pdf"
+        },
+        {
+            "id": "2",
+            "title": "Becoming King",
+            "author": "Troy Jackson",
+            "genre": "Documentary",
+            "description": "Becoming King is a compelling book that delves into the journey of transformation and growth towards becoming a leader. Through insightful narratives and practical guidance, the author navigates readers through the essential qualities and experiences necessary to ascend to leadership roles",
+            "year": "2008",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/bec/bec8c5566accdc702ea14c01d652c37f.jpg",
+            "source": "../public/books_source/Becoming King_ Martin Luther King Jr. and the Making of a National Leader (Civil Rights and the Struggle for Black Equality in the Twentieth Century) ( PDFDrive ).pdf"
+        },
+        {
+            "id": "3",
+            "title": "Learn C# in One Day and Learn It Well",
+            "author": "Jamie Chan",
+            "genre": "Educational",
+            "description": "Learn C# in One Day and Learn It Well is a comprehensive guide designed to help beginners quickly grasp the fundamentals of the C# programming language. With clear explanations and practical examples, this book covers essential concepts, syntax, and techniques for writing C# code efficiently",
+            "year": "2015",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/08c/08c88c04a4eae4797152051e6fd11262.jpg",
+            "source": "../public/books_source/Learn C# in One Day and Learn It Well_ C# for Beginners with Hands-on Project ( PDFDrive ).epub"
+        },
+        {
+            "id": "4",
+            "title": "Speak to Win",
+            "author": " Isaac Asimov",
+            "genre": "Educational",
+            "description": "Speak to Win: How to Present with Power in Any Situation is a dynamic guidebook that equips readers with the skills and strategies needed to deliver impactful presentations confidently in various settings",
+            "year": "2008",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/50f/50ff50c8240398f2f45981f81d3cc690.jpg",
+            "source": "../public/books_source/Speak to Win_ How to Present with Power in Any Situation ( PDFDrive ).pdf"
+        },
+        {
+            "id": "5",
+            "title": "The Richest Man in Babylon",
+            "author": "George Clason",
+            "genre": "Finance",
+            "description": "This timeless book offers practical financial advice through a series of parables set in ancient Babylon. It presents essential principles of wealth accumulation and financial wisdom, emphasizing the importance of saving, investing, and managing money wisely.",
+            "year": "2007",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/542/5420cec740881ee94061e96162b2d3cb.jpg",
+            "source": "../public/books_source/The Richest Man In Babylon ( PDFDrive ).pdf"
+        },
+        {
+            "id": "6",
+            "title": "Hillbilly Elegy",
+            "author": "J.D Vance",
+            "genre": "Biography",
+            "description": "Hillbilly Elegy is a memoir written by J.D. Vance that delves into his upbringing in a working-class family in the Appalachian region of Kentucky. The book provides a poignant and candid portrayal of Vance's personal journey, exploring themes of poverty, family dynamics, and the socio-economic challenges faced by the residents of the Rust Belt",
+            "year": "2016",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/4d3/4d35b9671c7a9c43bc332ab2a4d08d4b.jpg",
+            "source": "../public/books_source/Hillbilly Elegy_ A Memoir of a Family and Culture in Crisis ( PDFDrive ).pdf"
+        },
+        {
+            "id": "7",
+            "title": "The Rules of Work",
+            "author": "Richard Templar",
+            "genre": "Business",
+            "description": "The Rules of Work is a professional development book authored by Richard Templar. It provides practical advice and strategies for navigating the workplace effectively and achieving success in one's career",
+            "year": "2012",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/5c4/5c424d9e3aca0f2a13b8a64e63b53cd9.jpg",
+            "source": "../public/books_source/Richard_Templar-The_Rules_of_Work-EN.pdf"
+        },
+        {
+            "id": "8",
+            "title": "Strategic Leadership",
+            "author": "Richard L",
+            "genre": "Business",
+            "description": "Strategic Leadership is a book that focuses on the essential principles and practices of effective leadership in the context of strategic management. It delves into how leaders can align organizational goals with strategic initiatives to drive success and sustainable growth",
+            "year": "2010",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/cba/cba416eac68586a206eeb72a337899be.jpg",
+            "source": "../public/books_source/Strategic Leadership ( PDFDrive ).pdf"
+        },
+        {
+            "id": "9",
+            "title": "Presentation Secrets Of Steve Jobs",
+            "author": "Carmine Gallo",
+            "genre": "Biography",
+            "description": "Presentation Secrets of Steve Jobs is a book that offers valuable insights into the legendary presentation skills of Steve Jobs, the co-founder of Apple Inc. Authored by Carmine Gallo, this book reveals the techniques and strategies employed by Jobs to captivate his audience during product launches, keynote speeches, and other public appearances",
+            "year": "2009",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/f87/f8750e23839ee606b60cf2d19b415068.jpg",
+            "source": "../public/books_source/Presentation Secrets Of Steve Jobs ( PDFDrive ).pdf"
+        },
+        {
+            "id": "10",
+            "title": "The Immortal Life of Henrietta Lacks",
+            "author": "Rebecca Skloot",
+            "genre": "Science",
+            "description": "The Immortal Life of Henrietta Lacks is a compelling non-fiction book by Rebecca Skloot that delves into the story of Henrietta Lacks, an African American woman whose cells were taken without her consent in the 1950s and became the foundation of groundbreaking medical research.",
+            "year": "2010",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/82e/82ed3f2dc0c6a30a51a2985f4b251b4c.jpg",
+            "source": "../public/books_source/The Immortal Life of Henrietta Lacks ( PDFDrive ).pdf"
+        },
+        {
+            "id": "11",
+            "title": "100 Great Business Ideas",
+            "author": "Jeremy Kourdi",
+            "genre": "Business",
+            "description": "100 Great Business Ideas is a comprehensive guidebook that presents a diverse range of innovative and practical business concepts for aspiring entrepreneurs and seasoned business professionals alike. This book offers a curated selection of creative ideas spanning various industries and sectors, providing valuable insights, inspiration, and actionable strategies to help individuals kickstart their entrepreneurial journey or revitalize their existing business ventures. ",
+            "year": "2010",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/558/558dd44c614e08fdaed752bb35e28c3b.jpg",
+            "source": "../public/books_source/100 Great Business Ideas.pdf"
+        },
+        {
+            "id": "12",
+            "title": "Gandhi Autobiography",
+            "author": "Rumi",
+            "genre": "Biography",
+            "description": "Gandhi Autobiography refers to The Story of My Experiments with Truth, an autobiography written by Mahatma Gandhi, the renowned leader of the Indian independence movement. Originally written in Gujarati and later translated into English, the book offers an intimate and reflective account of Gandhi's life, principles, and philosophy.",
+            "year": "2002",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/9c5/9c5a9e0d801e4f550dc26ab5cf5618de.jpg",
+            "source": "../public/books_source/Gandhi-Truth.pdf"
+        },
+        {
+            "id": "13",
+            "title": "Documentary Storytelling, Second Edition",
+            "author": "Sheila Curran Bernard",
+            "genre": "Documentary",
+            "description": "Documentary Storytelling, Second Edition is a comprehensive guidebook written by Sheila Curran Bernard, aimed at aspiring documentary filmmakers and storytellers. The book provides a detailed exploration of the art and craft of documentary filmmaking, offering practical advice, techniques, and insights to help creators produce compelling and impactful documentaries.",
+            "year": "2007",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/757/757ddc46ba4479ae964cf61586780daa.jpg",
+            "source": "../public/books_source/Documentary Storytelling, Second Edition_ Making Stronger and More Dramatic Nonfiction Films ( PDFDrive ).pdf"
+        },
+        {
+            "id": "14",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Finance",
+            "description": "The Great Gatsby is a classic novel written by F. Scott Fitzgerald and first published in 1925. Set in the prosperous Jazz Age of 1920s America, the story is narrated by Nick Carraway, a young man who moves to Long Island, New York, and becomes embroiled in the lives of his wealthy neighbors.",
+            "year": "2008",
+            "poster": "https://cdn.pdfdrive.com/assets/thumbs/3d7/3d76f21c2db4cb108acbc293da45d684.jpg",
+            "source": "../public/books_source/Gatsby_PDF_FullText.pdf"
+        }
+    ],
+    "comments": [
+        {
+            "id": "0",
+            "bookId": "0",
+            "commId": "0",
+            "text": "Very interesting!",
+            "date": "14/03/2024 12:00"
+        },
+        {
+            "id": "1",
+            "bookId": "0",
+            "commId": "1",
+            "text": "Good Book.",
+            "date": "14/03/2024 12:05"
+        },
+        {
+            "id": "2",
+            "bookId": "1",
+            "commId": "0",
+            "text": "Useful Book!",
+            "date": "14/03/2024 12:07"
+        },
+        {
+            "id": "cdd1",
+            "bookId": "2",
+            "commId": "20b19bd2-16b5-455e-8d65-a2c2fabc1d5d",
+            "text": "So good!!!",
+            "date": "14/03/2024 1:16"
+        },
+        {
+            "id": "021c",
+            "bookId": "2",
+            "commId": "ab10f2c8-c3a8-4b14-897b-5c900c55783c",
+            "text": "Very much",
+            "date": "14/03/2024 1:17"
+        },
+        {
+            "id": "5d7c",
+            "bookId": "1",
+            "commId": "31c19176-4d5c-425f-a3dc-9347e9e30609",
+            "text": "lorem lorem",
+            "date": "14/03/2024 1:18"
+        },
+        {
+            "id": "cc49",
+            "bookId": "0",
+            "commId": "81d82b57-dfad-4dba-b63c-7cd0b50a36ac",
+            "text": "new comment...",
+            "date": "14/03/2024 1:19"
+        },
+        {
+            "id": "2119",
+            "bookId": "3",
+            "commId": "29ff7c8c-8630-4612-92f9-c2c1bb41cdb6",
+            "text": "C# powerful language",
+            "date": "14/03/2024 1:20"
+        },
+        {
+            "id": "30f4",
+            "bookId": "9",
+            "commId": "7ebccba2-a8d3-4e62-a60e-abf9732f11ff",
+            "text": "Great person!",
+            "date": "14/03/2024 12:04"
+        },
+        {
+            "id": "962b",
+            "bookId": "2",
+            "commId": "f824c3eb-6b49-47de-8478-488ffe102131",
+            "text": "Interesting",
+            "date": "14/03/2024 13:09"
+        },
+        {
+            "id": "0d95",
+            "bookId": "0",
+            "commId": "36bcb2d5-0432-4497-b559-3c6e002d422b",
+            "text": "lorem lorem",
+            "date": "14/03/2024 13:17"
+        },
+        {
+            "id": "25c8",
+            "bookId": "8",
+            "commId": "4d19bf34-122c-4014-a025-c726e76e06b7",
+            "text": "lorem lorem",
+            "date": "14/03/2024 13:21"
+        },
+        {
+            "id": "0193",
+            "bookId": "5",
+            "commId": "238ea8f8-237f-4767-a07f-9d72d2360e51",
+            "text": "now i am rich",
+            "date": "14/03/2024 13:34"
+        },
+        {
+            "id": "a2ca",
+            "bookId": "2",
+            "commId": "6e67cd0c-f60c-4384-8bd5-945b241a925b",
+            "text": "Mmmmm",
+            "date": "14/03/2024 18:02"
+        }
+    ],
+    "genres": [
+        {
+            "id": "0",
+            "name": "Educational"
+        },
+        {
+            "id": "1",
+            "name": "Science"
+        },
+        {
+            "id": "2",
+            "name": "Documentary"
+        },
+        {
+            "id": "3",
+            "name": "Finance"
+        },
+        {
+            "id": "4",
+            "name": "Biography"
+        },
+        {
+            "id": "5",
+            "name": "Business"
+        },
+        {
+            "id": "6",
+            "name": "Fantasy"
+        }
+    ]
+}

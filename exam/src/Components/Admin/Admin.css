@@ -1,0 +1,90 @@
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.admin-header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.admin-sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    width: 200px;
+}
+
+.admin-sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.admin-sidebar ul li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.admin-sidebar ul li:hover {
+    color: #007bff;
+}
+
+.admin-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.update-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.delete-btn {
+    background-color: rgb(181, 49, 49);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.update-btn:hover,
+.delete-btn:hover {
+    background-color: rgb(91, 82, 82);
+}
+
+.add-book-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.add-book-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.add-book-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-book-form button:hover {
+    background-color: #0056b3;
+}
